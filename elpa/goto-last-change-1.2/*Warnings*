@@ -1,0 +1,1 @@
+Warning (mule): "unibyte: t" (in goto-last-change.el) is obsolete; use "coding: 'raw-text" instead.
