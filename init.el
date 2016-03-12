@@ -3,6 +3,19 @@
                          ("marmalade" . "https://marmalade-repo.org/packages/")
                          ("melpa" . "https://melpa.org/packages/")))
 
+(defvar my-packages '(better-defaults
+                      projectile
+                      clojure-mode
+                      cider))
+
+(dolist (p my-packages)
+  (unless (package-installed-p p)
+    (package-install p)))
+
+
+;tabs are evil!
+(setq-default indent-tabs-mode nil)
+
 ;cider-repl stuff
 (add-hook 'cider-repl-mode-hook #'rainbow-delimiters-mode)
 (add-hook 'cider-repl-mode-hook 'paredit-mode)

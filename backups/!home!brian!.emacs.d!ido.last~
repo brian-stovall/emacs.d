@@ -1,0 +1,72 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/brian/mycode/async-tea-party/src/" . "async_tea_party/")
+ ("/home/brian/mycode/async-tea-party/" . "src/")
+ ("/home/brian/mycode/fcc/" . "calc/")
+ ("/home/brian/mycode/native-markov/src/" . "native_markov/")
+ ("/home/brian/mycode/native-markov/" . "src/")
+ ("/home/brian/mycode/" . "async-tea-party/")
+ ("/home/brian/" . "mycode/")
+ ("/home/" . "brian/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/brian/mycode/async-tea-party/src/async_tea_party/"
+ "/home/brian/mycode/docspot/"
+ "/home/brian/mycode/maze_explore/"
+ "/home/brian/mycode/simon_game/"
+ "/home/brian/mycode/fcc/calc/"
+ "/home/brian/mycode/native-markov/"
+ "/home/brian/mycode/native-markov/src/native_markov/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "windows.css"
+ "maze.js"
+ "simon.js"
+ "calc.js"
+ "windows.js"
+ "index.html"
+ "project.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/brian/mycode/async-tea-party/src/async_tea_party/" (22239 26882 938215 92000) "../" "./" "core.clj~" "core.clj")
+
+ ("/home/brian/mycode/async-tea-party/src/" (22239 18329 21200 989000) "async_tea_party/" "../" "./")
+
+ ("/home/brian/mycode/async-tea-party/" (22239 26969 262217 832000) "test/" "../" ".hgignore" "project.clj" "src/" "README.md" "LICENSE" "./" "project.clj~" ".nrepl-port" "CHANGELOG.md" "doc/" "resources/" ".gitignore" "target/")
+
+ ("/home/brian/" (22241 40221 852304 650000) ".lesshst" ".gconf/" ".mypaint/" "othersCode/" ".config/" "Templates/" ".gnome2_private/" ".cache/" "Pictures/" ".emacs.d/" "Music/" ".GoPanda2/" ".mess/" ".gstreamer-0.10/" "AndroidStudioProjects/" ".gamazons" ".pki/" "mycode/" ".esd_auth" ".ghc/" "ppsspp stuff/" "../" ".xsession-errors.old" ".bashrc" ".crawlrc" "mapback.ods" "Documents/" ".wine/" ".nestopia/" ".vnc/" ".gvba/" ".npmrc" ".dircolors" ".vim/" ".babel.json" "story/" ".qtsixa2/" "Inform/" ".vimrc" ".gnupg/" ".renpy/" ".dosbox/" "newcomer/" ".frodorc" "Firefox_wallpaper.png" ".remmina/" ".thumbnails/" ".gfceu/" "Videos/" ".bash_logout" ".oracle_jre_usage/" ".quarry" ".fceultra/" ".ZeroBraneStudio" ".viminfo" ".gphoto/" ".sludge-engine/" ".crawl/" "Desktop/" "Public/" ".local/" "./" ".bash_history" ".profile" ".node_repl_history" ".Kega Fusion/" ".spumux/" "amiga/" ".gnome2/" "logs/" ".meritous.sav" "Untitled Document~" "webDevLibs/" ".tumiki-fighters.prf" ".thunderbird/" ".xinputrc" ".gvfs/" ".tupi/" ".netrc" ".ssh/" ".vice/" ".lein/" ".dbus/" ".vba/" ".titanion/" ".vimrc-backup" ".zsnes/" ".java/" ".gitconfig" "dbgo" ".gfceugfceu_options.dat" "if/" "Emulation/" ".xsession-errors" "keys~" "Downloads/" "node_modules/" ".mongorc.js" ".fceux/" "lovedocs/" ".freerdp/" ".android/" ".angryddrc" ".adobe/" ".FBReader/" "notesbak" ".Xauthority" ".npm/" ".scribus/" "DnD 5e Players Handbook (BnW OCR ToC).pdf" ".devede" ".mplayer/" ".dmrc" ".m2/" ".kde/" ".mozilla/" "db/" ".AndroidStudio1.5/" ".ICEauthority" ".snes9x/" "Android/" ".compiz/" ".dbshell" ".gradle/" ".heroku/" ".macromedia/" ".gtk-recordmydesktop")
+
+ ("/home/brian/mycode/docspot/" (22241 31979 405767 851000) "windows.css" "../" "windows.js" "./" "index.html")
+
+ ("/home/brian/mycode/maze_explore/" (22160 227 528548 551000) "maze.js" "../" "readme.md" "art/" "./" "index.html" "maze.css" "menu.css" ".git/")
+
+ ("/home/brian/mycode/simon_game/" (22193 7768 999430 583000) "sounds/" "../" "animate.css" "README.md" "bg.jpg" "./" "stylesheet.css" "simon.js" "index.html" ".git/")
+
+ ("/home/brian/mycode/native-markov/src/native_markov/" (22240 52460 638159 531000) "../" "./" "core.clj")
+
+ ("/home/brian/mycode/fcc/calc/" (22210 15354 362923 93000) "../" "readme.md" "./" "bootstrap.min.css" "index.html" "calc.css" "calc.js" ".git/")
+
+ ("/home/brian/mycode/fcc/" (22199 24522 643256 411000) "quote/" "../" "tictac/" "./" "twitch/" "melanzana/" "calc/" "news/" "wiki-p/" "weather/")
+
+ ("/home/brian/mycode/" (22241 29201 597679 666000) "simon_game/" "github~" "maze_explore/" "fwpd/" "urlShortener/" "headerParse/" "openhatch/" "../" "clojure/" "hello-seesaw/" "async-tea-party/" "compojure-test/" "c/" "c++/" "eloquent js solutions/" "lovetac/" "lua/" "PIL 3rd ed solutions/" "js/" "./" "portfolio/" "cheshire-cat/" "native-markov/" "serpent-talk/" "java/" "docspot/" "github" "chw/" "file-metadata/" "markov-twister/" "fruity_up/" "fcc/" "loveTest/" "the-divine-cheese-code/" "timestamp/" "mark-prev/" "wonderland-clojure-katas/" "stiTest/" "ponylove/" "nodeschool/")
+
+ ("/home/brian/mycode/native-markov/" (22240 48908 190046 755000) "test/" "../" ".hgignore" "project.clj" "src/" "README.md" "LICENSE" "./" ".nrepl-port" "CHANGELOG.md" "doc/" "resources/" ".gitignore" "target/" ".git/")
+
+ ("/home/brian/mycode/native-markov/src/" (22239 34774 574465 620000) "../" "./" "native_markov/")
+
+ ("/home/" (21639 2729 221771 731000) "../" "./" "brian/")
+
+ ("/home/brian/.emacs.d/" (22240 48826 218044 153000) "backups/" "../" "elpa/" "auto-save-list/" "init.el~" "./" "init.el" ".git/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

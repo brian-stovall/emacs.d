@@ -1,0 +1,27 @@
+;;; -*- coding: utf-8 -*-
+(("/home/brian/mycode/portfolio/index.html" . 3313)
+ ("/home/brian/mycode/fcc/calc/calc.js" . 498)
+ ("/home/brian/mycode/docspot/index.html" . 163)
+ ("/home/brian/mycode/maze_explore/maze.js" . 5521)
+ ("/home/brian/mycode/docspot/windows.css" . 132)
+ ("/home/brian/mycode/docspot/windows.js" . 13)
+ ("/home/brian/mycode/the-divine-cheese-code/src/the_divine_cheese_code/visualization/"
+  (dired-filename . "/home/brian/mycode/the-divine-cheese-code/src/the_divine_cheese_code/visualization/svg.clj"))
+ ("/home/brian/mycode/the-divine-cheese-code/"
+  (dired-filename . "/home/brian/mycode/the-divine-cheese-code/src"))
+ ("/home/brian/mycode/the-divine-cheese-code/src/"
+  (dired-filename . "/home/brian/mycode/the-divine-cheese-code/src/the_divine_cheese_code"))
+ ("/home/brian/mycode/the-divine-cheese-code/src/the_divine_cheese_code/"
+  (dired-filename . "/home/brian/mycode/the-divine-cheese-code/src/the_divine_cheese_code/core.clj"))
+ ("/home/brian/mycode/the-divine-cheese-code/src/the_divine_cheese_code/core.clj" . 304)
+ ("/home/brian/mycode/the-divine-cheese-code/src/the_divine_cheese_code/visualization/svg.clj" . 171)
+ ("/home/brian/.emacs.d/" . 443)
+ ("/home/brian/mycode/native-markov/"
+  (dired-filename . "/home/brian/mycode/native-markov/src"))
+ ("/home/brian/mycode/native-markov/src/"
+  (dired-filename . "/home/brian/mycode/native-markov/src/native_markov"))
+ ("/home/brian/mycode/native-markov/src/native_markov/"
+  (dired-filename . "/home/brian/mycode/native-markov/src/native_markov/core.clj"))
+ ("/home/brian/.emacs.d/init.el" . 239)
+ ("/home/brian/mycode/native-markov/src/native_markov/core.clj" . 97)
+ ("/home/brian/.emacs.d/elpa/cider-20160309.808/cider-autoloads.el" . 7509))
